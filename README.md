@@ -1,6 +1,6 @@
 ### Olá! eu sou o Vinícius Borges 👋
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Hoje trabalho com Magento Back End
 - 🌱 Estudando Magento 2
 - 📫 Contate-me no email: viniciusg.borges@outlook.com
 - 😄 Pronouns: ele/dele
