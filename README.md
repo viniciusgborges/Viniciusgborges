@@ -1,5 +1,3 @@
-### Olá! eu sou o Vinícius Borges 👋
-
 - 🔭 Today I work with Magento 2
 - 📫 Contact me at email: viniciusg.borges@outlook.com
   
